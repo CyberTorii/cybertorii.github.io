@@ -108,7 +108,7 @@ div#projects .image-project:hover .overlay {
 div#projects .overlay h1, .overlay p {
     color: var(--dark-text-color);
     text-align: center;
-    margin: 5px 0 5px 0;
+    margin: 0.6vh 0;
     padding: 0;
 }
 
@@ -118,6 +118,7 @@ div#projects .overlay h1 {
 
 div#projects .overlay p {
     font-size: 1.2vw;
+    padding: 0 0.6vh;
 }
 
 /* ----------------- TOOLS ----------------- */
